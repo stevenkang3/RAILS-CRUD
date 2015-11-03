@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'rails-footnotes'
+gem 'hirb'
 gem 'rails', '4.1.8'
 gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.3'

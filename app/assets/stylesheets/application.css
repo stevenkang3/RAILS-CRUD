@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+ body{
+   margin: 20px;
+ }
+#newProduct {
+  width: 200px;
+  height: 325px;
+  border: 1px solid black;
+  margin: 0 auto;
+  background-color: lightgray;
+  opacity: .85;
+  padding:10px;
+  border-radius: 30px;
+}
